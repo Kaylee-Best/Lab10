@@ -1,6 +1,6 @@
 [
     {
-      "prompt": "Which breed of cat is the best?",
+      "prompt": "Which breed of cat is the Best?",
     "type": "multiple-choice",
     "choices": [
       "All of Them",
