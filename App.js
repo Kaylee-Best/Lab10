@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { View, Text, Button, StyleSheet } from "react-native";
 import { ButtonGroup, CheckBox } from "react-native-elements";
-import data from './Questions.JSON';
 
 const Question = ({ route, navigation }) => {
   const { questions, answers, index } = route.params;
