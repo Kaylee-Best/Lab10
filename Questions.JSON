@@ -1,0 +1,33 @@
+[
+    {
+      "prompt": "Which breed of cat is the best?",
+    "type": "multiple-choice",
+    "choices": [
+      "All of Them",
+      "Siamese",
+      "Brittish Shorthair",
+      "American Shorthair"
+    ],
+    "correct": 0
+  },
+    {
+      "prompt": "Which breeds of cats are MY favorite?",
+    "type": "multiple-answer",
+    "choices": [
+      "Brittish Shorthair",
+      "Persian",
+      "Himalayan",
+      "Abyssian"
+    ],
+    "correct": [0,2]
+  },
+    {
+    "prompt": "Cats are the best animal",
+    "type": "true-false",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  }
+  ]
